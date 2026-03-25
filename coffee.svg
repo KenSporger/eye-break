@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Steam -->
+  <path d="M380 210 C340 170, 340 120, 390 80 C430 48, 440 20, 420 0"
+        fill="none" stroke="#000000" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M520 210 C480 170, 480 120, 530 80 C570 48, 580 20, 560 0"
+        fill="none" stroke="#000000" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M660 210 C620 170, 620 120, 670 80 C710 48, 720 20, 700 0"
+        fill="none" stroke="#000000" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Cup body -->
+  <path d="M270 320
+           C270 300, 286 284, 306 284
+           H666
+           C686 284, 702 300, 702 320
+           V560
+           C702 660, 626 740, 526 740
+           H446
+           C346 740, 270 660, 270 560
+           Z"
+        fill="#000000"/>
+
+  <!-- Cup top highlight cut-out for nicer silhouette -->
+  <path d="M330 344
+           C330 336, 336 330, 344 330
+           H628
+           C636 330, 642 336, 642 344
+           V380
+           C642 390, 634 398, 624 398
+           H348
+           C338 398, 330 390, 330 380
+           Z"
+        fill="#ffffff" opacity="0.10"/>
+
+  <!-- Handle -->
+  <path d="M702 360
+           H772
+           C850 360, 914 424, 914 502
+           C914 580, 850 644, 772 644
+           H702
+           V586
+           H768
+           C814 586, 852 548, 852 502
+           C852 456, 814 418, 768 418
+           H702
+           Z"
+        fill="#000000"/>
+
+  <!-- Saucer -->
+  <path d="M260 780
+           C300 860, 390 920, 512 920
+           C634 920, 724 860, 764 780
+           C770 768, 762 754, 748 754
+           H276
+           C262 754, 254 768, 260 780
+           Z"
+        fill="#000000"/>
+</svg>
